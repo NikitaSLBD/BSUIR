@@ -1,0 +1,16 @@
+concept_planet
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Планета]
+   (* <- lang_ru;; *);
+   [Planet]
+   (* <- lang_en;; *);
+   
+=> nrel_note:
+   [Класс описывает все небесные тела, вращающиеся 
+   по орбите вокруг звезды или её остатков]
+   (* <- lang_ru;; *);
+   [Class describes all celestial objects, that
+   rotating by orbit around star or it remnants]
+   (* <- lang_en;; *);;

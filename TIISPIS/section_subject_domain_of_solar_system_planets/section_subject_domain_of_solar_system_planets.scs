@@ -1,0 +1,27 @@
+section_subject_domain_of_solar_system_planets
+=> nrel_main_idtf:
+	  [Раздел. Предметная область планет солнечной системы]
+  (* <- lang_ru;; *);
+	  [Section. Subject domain of solar system planets] 
+  (* <- lang_en;; *);
+<- atomic_section;;
+
+-> rrel_key_sc_element:
+   subject_domain_of_solar_system_planets;
+   concept_solar_system;
+   concept_sun;
+   concept_mercury;
+   concept_venus;
+   concept_earth;
+   concept_mars;
+   concept_jupiter;
+   concept_saturn;
+   concept_uranus;
+   concept_neptune;
+   nrel_mass;
+   nrel_temperature;
+   nrel_avg_radius;
+   nrel_distance_from_sun;
+   nrel_day_duration;
+   nrel_year_duration;
+   rrel_satellite;;

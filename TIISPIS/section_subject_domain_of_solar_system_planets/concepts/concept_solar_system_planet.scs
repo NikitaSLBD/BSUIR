@@ -1,0 +1,18 @@
+concept_solar_system_planet
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Планета солнечной системы]
+   (* <- lang_ru;; *);
+   [Solar system planet]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_planet;
+   
+=> nrel_note:
+   [Класс описывает все планеты, которые вращаются
+   вокруг солнца.]
+   (* <- lang_ru;; *);
+   [Сlass describes all planets, that rotating
+   around sun.]
+   (* <- lang_ru;; *);;
