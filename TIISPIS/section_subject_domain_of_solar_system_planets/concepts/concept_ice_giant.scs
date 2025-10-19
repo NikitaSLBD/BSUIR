@@ -1,0 +1,18 @@
+concept_ice_giant
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Ледяной гигант]
+   (* <- lang_ru;; *);
+   [Ice giant]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_planet;
+   
+=> nrel_note:
+   [Класс описывает гигантские планеты, которые в основном состоят из элементов 
+   тяжелее водорода и гелия.]
+   (* <- lang_ru;; *);
+   [The class describes giant planets that are composed primarily of elements heavier 
+   than hydrogen and helium.]
+   (* <- lang_en;; *);;

@@ -13,6 +13,6 @@ concept_solar_system_planet
    [Класс описывает все планеты, которые вращаются
    вокруг солнца.]
    (* <- lang_ru;; *);
-   [Сlass describes all planets, that rotating
+   [The class describes all planets, that rotating
    around sun.]
-   (* <- lang_ru;; *);;
+   (* <- lang_en;; *);;

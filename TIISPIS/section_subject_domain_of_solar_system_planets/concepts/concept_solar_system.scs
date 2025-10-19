@@ -1,0 +1,20 @@
+concept_solar_system
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Солнечная система]
+   (* <- lang_ru;; *);
+   [Solar system]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_planet;
+   
+=> nrel_note:
+   [планетная система, включающая в себя центральную звезду 
+   Солнце и все естественные космические объекты на гелиоцентрических 
+   орбитах.]
+   (* <- lang_ru;; *);
+   [planetary system that includes the central star
+    Sun and all natural celestial bodies in heliocentric
+    orbits.]
+   (* <- lang_en;; *);;

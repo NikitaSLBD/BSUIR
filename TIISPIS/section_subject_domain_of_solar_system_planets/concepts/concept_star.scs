@@ -1,0 +1,14 @@
+concept_star
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Звезда]
+   (* <- lang_ru;; *);
+   [Star]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Класс описывает массивные самосветящиеся небесные тела.]
+   (* <- lang_ru;; *);
+   [The class describes massive self-luminous celestial objects.]
+   (* <- lang_en;; *);;

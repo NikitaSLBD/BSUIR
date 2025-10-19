@@ -1,0 +1,18 @@
+concept_dwarf_planet
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Карликовая планета]
+   (* <- lang_ru;; *);
+   [Dwarf planet]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_planet;
+   
+=> nrel_note:
+   [Класс описывает малые планеты, которые не очистили
+   свою орбиту от других объектов.]
+   (* <- lang_ru;; *);
+   [The class describes minor planets that have not cleared 
+   their orbits of other objects.]
+   (* <- lang_en;; *);;

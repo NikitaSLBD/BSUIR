@@ -1,0 +1,15 @@
+nitrogen_atmosphere
+<- concept_atmosphere;
+=> nrel_main_idtf:
+   [Азотная атмосфера]
+   (* <- lang_ru;; *);
+   [Nitrogen atmosphere]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Атмосфера преимущественным компонентом которой
+   является азот.]
+   (* <- lang_ru;; *);
+   [The atmosphere, the predominant component of 
+   which is nitrogen.]
+   (* <- lang_en;; *);;

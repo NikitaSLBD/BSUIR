@@ -7,10 +7,13 @@ concept_planet
    [Planet]
    (* <- lang_en;; *);
    
+   
 => nrel_note:
    [Класс описывает все небесные тела, вращающиеся 
-   по орбите вокруг звезды или её остатков]
+   по орбите вокруг звезды или её остатков, 
+   имеющее достаточную массу для принятия сферической формы.]
    (* <- lang_ru;; *);
-   [Class describes all celestial objects, that
-   rotating by orbit around star or it remnants]
+   [The class describes all celestial objects, that
+   rotating by orbit around star or it remnants and
+   having enough mass for sphere transforming.]
    (* <- lang_en;; *);;

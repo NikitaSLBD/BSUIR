@@ -1,0 +1,15 @@
+rarefied_atmosphere
+<- concept_atmosphere;
+=> nrel_main_idtf:
+   [Разряженная атмосфера]
+   (* <- lang_ru;; *);
+   [Rarefied atmosphere]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Атмосфера у которой сложно выделить преобладающий
+   компонент.]
+   (* <- lang_ru;; *);
+   [The atmosphere in which it is difficult to identify 
+   a predominant component.]
+   (* <- lang_en;; *);;

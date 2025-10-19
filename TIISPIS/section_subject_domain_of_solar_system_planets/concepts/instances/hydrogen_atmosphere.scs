@@ -1,0 +1,15 @@
+hydrogen_atmosphere
+<- concept_atmosphere;
+=> nrel_main_idtf:
+   [Водородная атмосфера]
+   (* <- lang_ru;; *);
+   [Hydrogen atmosphere]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Атмосфера преимущественным компонентом которой
+   является водород.]
+   (* <- lang_ru;; *);
+   [The atmosphere, the predominant component of 
+   which is hydrogen.]
+   (* <- lang_en;; *);;

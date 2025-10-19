@@ -1,0 +1,18 @@
+concept_earth_group
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Земная группа]
+   (* <- lang_ru;; *);
+   [Earth group]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_solar_system_planet;
+   
+=> nrel_note:
+   [Класс описывает четыре планеты Солнечной системы: Меркурий, Венера, Земля и Марс. 
+   Расположены во внутренней области Солнечной системы.]
+   (* <- lang_ru;; *);
+   [The class describes the four planets of the solar system: Mercury, Venus, Earth, and Mars.
+    Located in the inner solar system.]
+   (* <- lang_en;; *);;

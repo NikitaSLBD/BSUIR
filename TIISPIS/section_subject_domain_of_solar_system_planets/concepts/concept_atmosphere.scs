@@ -1,0 +1,14 @@
+concept_atmosphere
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Атмосфера]
+   (* <- lang_ru;; *);
+   [Atmosphere]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Газовая оболочка небесного тела.]
+   (* <- lang_ru;; *);
+   [Gas envelope of a celestial object.]
+   (* <- lang_en;; *);;

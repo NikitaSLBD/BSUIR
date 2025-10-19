@@ -1,0 +1,12 @@
+astronomical_unit
+=> nrel_main_idtf:
+   [Астрономическая единица]
+   (* <- lang_ru;; *);
+   [Astronomical unit]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Среднее расстояние от Земли до Солнца.]
+   (* <- lang_ru;; *);
+   [Average distance from Earth to Sun.]
+   (* <- lang_en;; *);;

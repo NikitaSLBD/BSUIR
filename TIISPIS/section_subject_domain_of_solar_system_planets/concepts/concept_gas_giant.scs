@@ -1,0 +1,20 @@
+concept_gas_giant
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Газовый гигант]
+   (* <- lang_ru;; *);
+   [Gas giant]
+   (* <- lang_en;; *);
+<= nrel_inclusion:
+   concept_planet;
+   
+=> nrel_note:
+   [Класс описывает гигантские планеты, состоящие в основном из водорода и гелия. 
+   Планеты этого типа имеют небольшую плотность, короткий период суточного вращения, 
+   и, следовательно, значительное сжатие у полюсов.]
+   (* <- lang_ru;; *);
+   [This class describes giant planets composed primarily of hydrogen and helium.
+   Planets of this type have low densities, short daily rotation periods, and, 
+   consequently, significant oblateness at the poles.]
+   (* <- lang_en;; *);;

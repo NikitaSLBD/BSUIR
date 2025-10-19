@@ -1,0 +1,16 @@
+concept_moon
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+   [Спутник]
+   (* <- lang_ru;; *);
+   [Moon]
+   (* <- lang_en;; *);
+
+=> nrel_note:
+   [Класс описывает небесные тела, которые вращаются 
+   вокруг планет.]
+   (* <- lang_ru;; *);
+   [The class describes celestial objects, 
+   that rotating around planets.]
+   (* <- lang_en;; *);;
